@@ -9,7 +9,7 @@ Hi, I'm Deyndrawan Sutrisno, a passionate self-taught fullstack developer from I
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Xhydracore&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Xhydracore&show_icons=true&include_all_commits=true&theme=radical" alt="Deyndrawan Sutrisno's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -20,3 +20,5 @@ Hi, I'm Deyndrawan Sutrisno, a passionate self-taught fullstack developer from I
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Xhydracore&repo=Github-User-App&theme=radical" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=Xhydracore&color=blue&style=flat-square" align="right" />
